@@ -2,8 +2,11 @@
 👋 Hi, I’m Nguyễn Cao Trường
 
 👀 I’m interested in listening
+
 🌱 I’m currently learning code
+
 💞️ I’m looking to collaborate on socie media
+
 📫 How to reach me Gmail: nguyencaotruong911@gmail.com
 
 ## 🌐Socials
