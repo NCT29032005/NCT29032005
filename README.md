@@ -86,7 +86,7 @@
 </div>
 
 <br>
-
+<!--
 <h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2>
 <br>
 <p>
@@ -108,10 +108,10 @@
 <a href="https://youtube.com/@trungquandev" target="_blank">
   <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
 </a>
-
-<br>
+-->
+<!--<br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
-</a>
+</a>-->
